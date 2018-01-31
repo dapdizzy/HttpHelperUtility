@@ -1,0 +1,7 @@
+C:\Users\pyatkov\Documents\Visual Studio 2017\Projects\HttpHelperUtility\SlackSender\bin\Debug\SlackSender.dll
+C:\Users\pyatkov\Documents\Visual Studio 2017\Projects\HttpHelperUtility\SlackSender\bin\Debug\SlackSender.pdb
+C:\Users\pyatkov\Documents\Visual Studio 2017\Projects\HttpHelperUtility\SlackSender\bin\Debug\HttpHelperUtility.dll
+C:\Users\pyatkov\Documents\Visual Studio 2017\Projects\HttpHelperUtility\SlackSender\bin\Debug\HttpHelperUtility.pdb
+C:\Users\pyatkov\Documents\Visual Studio 2017\Projects\HttpHelperUtility\SlackSender\obj\Debug\SlackSender.csprojResolveAssemblyReference.cache
+C:\Users\pyatkov\Documents\Visual Studio 2017\Projects\HttpHelperUtility\SlackSender\obj\Debug\SlackSender.dll
+C:\Users\pyatkov\Documents\Visual Studio 2017\Projects\HttpHelperUtility\SlackSender\obj\Debug\SlackSender.pdb

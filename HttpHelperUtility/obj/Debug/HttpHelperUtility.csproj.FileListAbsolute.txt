@@ -1,0 +1,9 @@
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\bin\Debug\HttpHelperUtility.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\bin\Debug\HttpHelperUtility.pdb
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\bin\Debug\Newtonsoft.Json.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\bin\Debug\Newtonsoft.Json.xml
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\obj\Debug\HttpHelperUtility.csprojResolveAssemblyReference.cache
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\obj\Debug\HttpHelperUtility.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtility\obj\Debug\HttpHelperUtility.pdb

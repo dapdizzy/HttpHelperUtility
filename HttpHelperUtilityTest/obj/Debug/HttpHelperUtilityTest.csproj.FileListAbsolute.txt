@@ -1,0 +1,14 @@
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\HttpHelperUtilityTest.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\HttpHelperUtilityTest.pdb
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\HttpHelperUtility.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\HttpHelperUtility.pdb
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\obj\Debug\HttpHelperUtilityTest.csprojResolveAssemblyReference.cache
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\obj\Debug\HttpHelperUtilityTest.dll
+c:\users\pyatkov\documents\visual studio 2017\Projects\HttpHelperUtility\HttpHelperUtilityTest\obj\Debug\HttpHelperUtilityTest.pdb

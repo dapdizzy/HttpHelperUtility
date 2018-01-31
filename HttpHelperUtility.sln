@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpHelperUtility", "HttpHelperUtility\HttpHelperUtility.csproj", "{490114EF-EA4C-4C51-8E98-4CCA77320D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpHelperUtilityTest", "HttpHelperUtilityTest\HttpHelperUtilityTest.csproj", "{F6D921DE-4DBF-4A84-B4BB-B0AF10AEF31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackSender", "SlackSender\SlackSender.csproj", "{AD081CA8-A2E3-421B-B720-41D849756561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackSenderTest", "SlackSenderTest\SlackSenderTest.csproj", "{09B092A1-1E38-4051-B9FB-FF534C0EC8C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490114EF-EA4C-4C51-8E98-4CCA77320D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490114EF-EA4C-4C51-8E98-4CCA77320D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490114EF-EA4C-4C51-8E98-4CCA77320D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490114EF-EA4C-4C51-8E98-4CCA77320D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D921DE-4DBF-4A84-B4BB-B0AF10AEF31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D921DE-4DBF-4A84-B4BB-B0AF10AEF31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D921DE-4DBF-4A84-B4BB-B0AF10AEF31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D921DE-4DBF-4A84-B4BB-B0AF10AEF31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD081CA8-A2E3-421B-B720-41D849756561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD081CA8-A2E3-421B-B720-41D849756561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD081CA8-A2E3-421B-B720-41D849756561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD081CA8-A2E3-421B-B720-41D849756561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B092A1-1E38-4051-B9FB-FF534C0EC8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B092A1-1E38-4051-B9FB-FF534C0EC8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B092A1-1E38-4051-B9FB-FF534C0EC8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B092A1-1E38-4051-B9FB-FF534C0EC8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
